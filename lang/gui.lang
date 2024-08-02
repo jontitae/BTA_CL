@@ -335,13 +335,13 @@ model.category.entity.boat.button.wind=Wind: %s degrees
 model.category.entity.slime.slider.size=Slime: %s
 model.category.entity.minecart.button.cycle=Cycle Minecart
 
-model.category.block.name=Block
-model.category.block.info=Block: %s
-model.category.block.basket.slider.fill=Fill: %s
+model.category.block.name=Bloque
+model.category.block.info=Bloque: %s
+model.category.block.basket.slider.fill=Llenar: %s
 model.category.block.spawner.button.id=Mob: %s
 
-model.category.particle.name=Particle
-model.category.particle.info=Particle: %s
-model.category.particle.radius.slider=Radius: %s
-model.category.particle.note.slider=Note: %s
-model.category.particle.block.side=Side: %s
+model.category.particle.name=Particula
+model.category.particle.info=Particula: %s
+model.category.particle.radius.slider=Radio: %s
+model.category.particle.note.slider=Nota: %s
+model.category.particle.block.side=Lado: %s
